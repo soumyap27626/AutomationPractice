@@ -1,2 +1,0 @@
-GitHub fundamentals.
-Playwright with javascript/typerscript learnings.
