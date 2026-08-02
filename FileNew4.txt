@@ -1,2 +1,2 @@
-GitHub fundamnetals.
+GitHub fundamentals.
 Playwright with javascript/typerscript learnings.
